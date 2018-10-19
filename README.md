@@ -15,9 +15,9 @@ Esta es una traducción no oficial de la Licencia de documentación Libre de GNU
 
 # HTML
 
-[FDL-es.html](FDL-es.html)
+[FDL-es.html](https://fdl-es.gitlab.io/FDL-es.html)
 
-[FDL](index.html)
+[FDL](https://fdl-es.gitlab.io/index.html)
 
 # Repositorio 
 
