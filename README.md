@@ -7,12 +7,6 @@ Licencia de documentación Libre de GNU
 
 Esta es una traducción no oficial de la Licencia de documentación Libre de GNU al español. No ha sido publicada por la Free Software Foundation y no establece los términos jurídicos de distribución del software publicado bajo la FDL de GNU, solo la FDL de GNU original en inglés lo hace. De todos modos, esperamos que esta traducción ayude a los hispanohablantes a comprender mejor la FDL de GNU. 
 
-[ODT](FDL-es.odt) 
-
-[PDF](FDL-es.pdf)
-
-[TXT](FDL-es.txt)
-
 # HTML
 
 [FDL-es.html](https://fdl-es.gitlab.io/FDL-es.html)
